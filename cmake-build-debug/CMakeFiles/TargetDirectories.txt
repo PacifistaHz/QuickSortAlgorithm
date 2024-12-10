@@ -1,0 +1,3 @@
+C:/Users/hzgra/CLionProjects/QuickSortAlgorithm/cmake-build-debug/CMakeFiles/QuickSortAlgorithm.dir
+C:/Users/hzgra/CLionProjects/QuickSortAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hzgra/CLionProjects/QuickSortAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
